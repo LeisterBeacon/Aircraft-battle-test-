@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5777096804057671846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9119188872999399950, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: DefaultPickUpSFX
+      value: 
+      objectReference: {fileID: 11400000, guid: 86de8538d020a4146ad31c02146b3e06,
+        type: 2}
+    - target: {fileID: 2539548963737944744, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bc91222717b138546b3556e0369053b5, type: 2}
+    - target: {fileID: 3557428357274699947, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.66666657
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357274699947, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.5672805
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357274699947, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.09433951
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: fde575ea5128bc747b1fb00e6f385559,
+        type: 3}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.40251565
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.33723363
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.026581166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357542150814, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326413, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Name
+      value: Weapon Power Up
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557428357913326418, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5691329384192411233, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Text
+      value: POWER UP!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5691329384192411233, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.3207547
+      objectReference: {fileID: 0}
+    - target: {fileID: 5691329384192411233, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.27034235
+      objectReference: {fileID: 0}
+    - target: {fileID: 5691329384192411233, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.015129899
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3557428357913326413, guid: 2eecf77035cb5ee419b58590f5d34548,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 628896426958673544}
+  m_SourcePrefab: {fileID: 100100000, guid: 2eecf77035cb5ee419b58590f5d34548, type: 3}
+--- !u!1 &7021913161279593451 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3557428357913326413, guid: 2eecf77035cb5ee419b58590f5d34548,
+    type: 3}
+  m_PrefabInstance: {fileID: 5777096804057671846}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &628896426958673544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7021913161279593451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f736ae823d033f9468e4822bf879de45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSpeed: 5
+  maxSpeed: 15
+  DefaultPickUpSFX: {fileID: 11400000, guid: 86de8538d020a4146ad31c02146b3e06, type: 2}
+  fullPowerPickUpSFX: {fileID: 11400000, guid: cf4c52f1521be0e4e938df6cd6b15868, type: 2}
+  fullPowerScoreBonus: 150
